@@ -1,2 +1,9 @@
+table, td {
+    border: .2px solid black;
+    width: 10%;
+    color: white;
+  }
 
-/* Your CSS Code here. */
+  th{
+    background-color: brown;
+  }
