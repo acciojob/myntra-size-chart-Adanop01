@@ -1,9 +1,14 @@
-table, td {
-    border: .2px solid black;
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th{
+    background-color: brown;
     width: 10%;
     color: white;
   }
+  .tb{
 
-  th{
+    color: white;
     background-color: brown;
   }
